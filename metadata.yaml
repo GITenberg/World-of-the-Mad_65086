@@ -1,0 +1,30 @@
+_repo: World-of-the-Mad_65086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Poul
+    aliases:
+    - Craig, A. A.
+    - Sanders, Winston P.
+    - Saunders, Winston P.
+    - Anderson, Poul William
+    - Karageorge, Michael
+    - Craig, A.A.
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2021-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: World of the Mad
+url: http://www.gutenberg.org/ebooks/65086
